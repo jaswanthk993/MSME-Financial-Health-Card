@@ -1,0 +1,6 @@
+{
+  "name": "MSME Financial Health Card",
+  "description": "An AI-powered alternative credit scoring and risk evaluation dashboard for New-to-Credit and New-to-Bank MSMEs using GST, EPFO, and UPI transaction data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
